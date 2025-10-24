@@ -33,10 +33,10 @@ dependencies = [ # fmt: off
 ]  # fmt: on
 
 [project.urls]
-"Bug Tracker" = https://github.com/bfuemmeler/applied-ml-fuemmeler
-Documentation = https://github.com/bfuemmeler/applied-ml-fuemmeler
-Homepage = https://github.com/bfuemmeler/applied-ml-fuemmeler
-Repository = https://github.com/bfuemmeler/applied-ml-fuemmeler
+"Bug Tracker" = "https://github.com/bfuemmeler/applied-ml-fuemmeler"
+Documentation = "https://github.com/bfuemmeler/applied-ml-fuemmeler"
+Homepage = "https://github.com/bfuemmeler/applied-ml-fuemmeler"
+Repository = "https://github.com/bfuemmeler/applied-ml-fuemmeler"
 
 [project.optional-dependencies]
 dev = [
