@@ -142,7 +142,7 @@ Run the demo Python modules to confirm everything is working.
 In VS Code terminal, run:
 
 ```shell
-uv run python notebooks/project01/ml01.py
+uv run python notebooks/project02/ml02_fuemmeler.py
 ```
 
 A new window with charts should appear. Close the window to finish the execution. 
